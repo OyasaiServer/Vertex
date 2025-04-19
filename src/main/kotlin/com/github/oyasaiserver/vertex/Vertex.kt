@@ -16,3 +16,4 @@ class Vertex : JavaPlugin() {
         val genaiClient = Client()
         val httpClient = HttpClient(CIO)
     }
+}
